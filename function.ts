@@ -1,4 +1,3 @@
-
-		get name() { 
+get name() { 
 			return 'function' 
 		}
