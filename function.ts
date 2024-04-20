@@ -1,1 +1,3 @@
-get name() {	return 'function'	}
+get name() {
+return 'function'
+}
