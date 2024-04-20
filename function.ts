@@ -1,3 +1,3 @@
 get name() {
-sreturn 'function'
+ return 'function'
 }
