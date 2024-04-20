@@ -1,1 +1,3 @@
-let Omega = 'Ω';
+get name() {
+			return 'function'
+		}
